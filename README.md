@@ -12,6 +12,7 @@ To run this notebook, you will need a standard Python scientific stack. The depe
 * `numpy`
 * `scipy`
 * `matplotlib`
+The Python version used while creating this notebook is 3.12.13.
 
 ## Usage
 1. Open the Jupyter Notebook `MagnetoSimmer.ipynb`.
