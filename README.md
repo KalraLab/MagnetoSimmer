@@ -25,6 +25,8 @@ The Python version used while creating this notebook is 3.12.13.
    * Grid-search and MARY-curve sweep settings (field limits and resolutions).
 4. Run all cells from top to bottom.
 
+(g-values and $a_{\text{iso}}$ used in this study are provided in the 'Sample Values' folder.)
+
 ## Outputs
 The notebook automatically saves the following files to the working directory:
 * `[radicalPairName]_MFE_Grid.csv`: Raw data from the $k_S$ vs $k_C$ grid search.
