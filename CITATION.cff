@@ -1,12 +1,18 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
+- family-names: "Lila"
+  given-names: "Dhruv"
+  orcid: "https://orcid.org/0009-0002-3680-9752"
+- family-names: "Goel"
+  given-names: "Lisha"
+  orcid: "https://orcid.org/0009-0000-4570-7163"
+- family-names: "Lais"
+  given-names: "Mahwish"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Kalra"
+  given-names: "Aarat"
+  orcid: "https://orcid.org/0000-0002-1877-0439"
 title: "Spin Magnetoreception Through Redox-Active Residues and Nucleotides"
 repository name: "Data-and-Analysis-for-PLCD-Mixtures"
 version: 1.0.0
