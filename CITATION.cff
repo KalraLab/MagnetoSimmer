@@ -14,6 +14,7 @@ authors:
   given-names: "Aarat"
   orcid: "https://orcid.org/0000-0002-1877-0439"
 title: "Spin Magnetoreception Through Redox-Active Residues and Nucleotides"
-repository name: "Data-and-Analysis-for-PLCD-Mixtures"
-version: 1.0.0
+version: 1.4
+repository name: "MagnetoSimmer"
+date-released: 2026-07-29
 url: "https://github.com/KalraLab/MagnetoSimmer"
